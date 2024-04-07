@@ -14,15 +14,15 @@
   
 - 📫 How to reach me **ritwickpal931@gmail.com**
  
-- ⚡ Fun fact Silly Overthinke
+- ⚡ Fun fact Silly Overthinker
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1OP46Gk_gCbdVZmYMnhrRs-4CijoloT9c/view?usp=sharing](https://drive.google.com/file/d/1OP46Gk_gCbdVZmYMnhrRs-4CijoloT9c/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ritwick-pal-40593024b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="palritwick/" height="30" width="40" /></a>
-<a href="https://leetcode.com/palritwick/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ritwickpal" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ritwick._pal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ritwickpal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ritwick-pal-40593024b/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="palritwick/" height="30" width="40" /></a>
+<a href="https://leetcode.com/palritwick/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ritwickpal" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ritwick._pal/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ritwickpal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
