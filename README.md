@@ -1,4 +1,3 @@
-
 <h1 align="center">Hello 👋, I'm Ritwick Pal </h1>
 <h3 align="center">Final year undergrad BTech (CSE) student adept at web development, mechine learning, data analytics. Crafting innovative solutions with skills in Python, Java, MySQL and Web development technologies like HTML5, CSS3 and JavaScript. Enabling seamless experiences through creative projects—Turning ideas into impactful realities.</h3>
 
@@ -20,9 +19,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ritwick-pal-40593024b/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="palritwick/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ritwick-pal-40593024b/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="palritwick" height="30" width="40" /></a>
 <a href="https://leetcode.com/palritwick/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ritwickpal" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ritwick._pal/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ritwickpal" height="30" width="40" /></a>
+ <a href="https://www.hackerrank.com/profile/ritwickpal931" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ritwickpal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
