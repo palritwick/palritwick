@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Ritwick Pal </h1>
-<h3 align="center">Final year undergrad BTech (CSE) student adept at web development, mechine learning, data analytics. Crafting innovative solutions with skills in Python, Java, MySQL and Web development technologies like HTML5, CSS3 and JavaScript. Enabling seamless experiences through creative projects—Turning ideas into impactful realities.</h3>
+<h3 align="center">Final year undergrad BTech (CSE) student adept at web development, machine learning, data analytics. Crafting innovative solutions with skills in Python, Java, MySQL and Web development technologies like HTML5, CSS3 and JavaScript. Enabling seamless experiences through creative projects—Turning ideas into impactful realities.</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/C4D22AQFVBA7EsXyz6Q/feedshare-shrink_2048_1536/0/1630049210782?e=2147483647&v=beta&t=ouEs1Zo4jRPs7M1zbdca6ZxfKcnHteetr-vaQPgoiPs">
 
@@ -9,7 +9,7 @@
  
 - 👀 I'm interested in **Coding and Development ...**
  
-- 💬 Ask me about Nothing...!!!
+- 💬 Ask me about C, Java, Python, OOPS and DBMS ...!!!
   
 - 📫 How to reach me **ritwickpal931@gmail.com**
  
